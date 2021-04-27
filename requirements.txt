@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+nltk
+joblib
+#strings
+scikit-learn
+#re
