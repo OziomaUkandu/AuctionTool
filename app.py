@@ -13,9 +13,13 @@ pd.options.mode.chained_assignment = None
 from nltk.corpus import wordnet
 
 from nltk.stem import WordNetLemmatizer
+import nltk_download_utils
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import preprocessing
 import sqlite3 
+
+
 
 
 ## Display the App description code
